@@ -14,4 +14,4 @@ The codes for the GW algorithm are at  https://github.com/YahuiSun/GW-to-identif
 
 The codes for PSIA are at https://github.com/YahuiSun/PSIA-to-identify-subnetworks 
 
-For any question, please contact Yahui Sun yahui.sun@anu.edu.au I'll be very happy to help.
+For any question, please contact Yahui Sun yahuisun@outlook.com I'll be very happy to help.
